@@ -4,12 +4,12 @@ HOST,analytics.strava.com,China
 HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
 HOST,client.amplifi.com,China
-HOST,dl.google.com,China
+;HOST,dl.google.com,China
 HOST,download.jetbrains.com,China
 HOST,file-igamecj.akamaized.net,China
 HOST,images-cn.ssl-images-amazon.com,China
 HOST,ip.istatmenus.app,China
-HOST,mtalk.google.com,China
+;HOST,mtalk.google.com,China
 HOST,officecdn-microsoft-com.akamaized.net,China
 HOST,origin-a.akamaihd.ne,China
 HOST,origin-a.akamaihd.net,China

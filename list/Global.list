@@ -5,6 +5,11 @@ DOMAIN-SUFFIX,cloud.gsdk.proximabeta.com,PROXY
 DOMAIN-SUFFIX,pubgameshowtime,PROXY
 DOMAIN-SUFFIX,qcloudcdn.com,PROXY
 DOMAIN-SUFFIX,igamecj.com,PROXY
+DOMAIN-SUFFIX,pay.igamecj.com,PROXY
+DOMAIN-SUFFIX,k.igamecj.com,PROXY
+DOMAIN-SUFFIX,gcloud.download.igamecj.com,PROXY
+DOMAIN-SUFFIX,dl.igamecj.com,PROXY
+DOMAIN-SUFFIX,gcloudcs.com,PROXY
 DOMAIN-SUFFIX,gjack.com,PROXY
 DOMAIN-SUFFIX,tencentgames.helpshift.com,PROXY
 DOMAIN-SUFFIX,9gag.com,PROXY

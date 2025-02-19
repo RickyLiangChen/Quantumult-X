@@ -1,6 +1,5 @@
 # (D.C.S.G?)
 DOMAIN-SUFFIX,9cache.com,PROXY
-DOMAIN-SUFFIX,igamecj.com,PROXY
 DOMAIN-SUFFIX,9gag.com,PROXY
 DOMAIN-SUFFIX,abc.com,PROXY
 DOMAIN-SUFFIX,anchor.fm,PROXY
@@ -474,8 +473,5 @@ DOMAIN-SUFFIX,licdn.com,PROXY
 DOMAIN-SUFFIX,msn.com,PROXY
 DOMAIN-SUFFIX,skype.com,PROXY
 DOMAIN-SUFFIX,fy-shopping.com,PROXY
-DOMAIN-SUFFIX,rumt-sg.com,PROXY
-DOMAIN-SUFFIX,playerinfinite.com,PROXY
-DOMAIN-SUFFIX,pay.igamecj.com,PROXY
-DOMAIN-SUFFIX,k.gjacky.com.com,PROXY
-DOMAIN-SUFFIX,gjacky.com.com,PROXY
+
+

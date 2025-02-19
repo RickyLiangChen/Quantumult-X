@@ -635,3 +635,9 @@ IP6-CIDR,2a0b:b580::/48,China
 IP6-CIDR,2a0b:b581::/48,China
 IP6-CIDR,2a0b:b582::/48,China
 IP6-CIDR,2a0b:b583::/48,China
+DOMAIN-SUFFIX,proximabeta.com,DIRECT
+DOMAIN-SUFFIX,qcloudcdn.com,DIRECT
+DOMAIN-SUFFIX,igamecj.com,DIRECT
+DOMAIN-SUFFIX,tencentgames.helpshift.com,DIRECT
+DOMAIN-SUFFIX,game.qq.com,DIRECT
+DOMAIN-SUFFIX,qsdk.qq.com,DIRECT

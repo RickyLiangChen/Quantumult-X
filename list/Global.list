@@ -1,5 +1,10 @@
 # (D.C.S.G?)
 DOMAIN-SUFFIX,9cache.com,PROXY
+DOMAIN-SUFFIX,proximabeta.com,PROXY
+DOMAIN-SUFFIX,qcloudcdn.com,PROXY
+DOMAIN-SUFFIX,igamecj.com,PROXY
+DOMAIN-SUFFIX,gjack.com,PROXY
+DOMAIN-SUFFIX,tencentgames.helpshift.com,PROXY
 DOMAIN-SUFFIX,9gag.com,PROXY
 DOMAIN-SUFFIX,abc.com,PROXY
 DOMAIN-SUFFIX,anchor.fm,PROXY
@@ -473,7 +478,3 @@ DOMAIN-SUFFIX,licdn.com,PROXY
 DOMAIN-SUFFIX,msn.com,PROXY
 DOMAIN-SUFFIX,skype.com,PROXY
 DOMAIN-SUFFIX,fy-shopping.com,PROXY
-DOMAIN-SUFFIX,proximabeta.com,PROXY
-DOMAIN-SUFFIX,qcloudcdn.com,PROXY
-DOMAIN-SUFFIX,igamecj.com,PROXY
-DOMAIN-SUFFIX,tencentgames.helpshift.com,PROXY

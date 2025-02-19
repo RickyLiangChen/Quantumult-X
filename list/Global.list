@@ -473,5 +473,7 @@ DOMAIN-SUFFIX,licdn.com,PROXY
 DOMAIN-SUFFIX,msn.com,PROXY
 DOMAIN-SUFFIX,skype.com,PROXY
 DOMAIN-SUFFIX,fy-shopping.com,PROXY
-
-
+DOMAIN-SUFFIX,proximabeta.com,PROXY
+DOMAIN-SUFFIX,qcloudcdn.com,PROXY
+DOMAIN-SUFFIX,igamecj.com,PROXY
+DOMAIN-SUFFIX,tencentgames.helpshift.com,PROXY

@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,9cache.com,PROXY
 DOMAIN-SUFFIX,pubgameshowtime.com,PROXY
 DOMAIN-SUFFIX,proximabeta.com,PROXY
 DOMAIN-SUFFIX,cloud.gsdk.proximabeta.com,PROXY
+IP-CIDR,119.28.229.0/32,PROXY
+IP-CIDR,49.51.129.0/32,PROXY
 DOMAIN-SUFFIX,qcloudcdn.com,PROXY
 DOMAIN-SUFFIX,igamecj.com,PROXY
 DOMAIN-SUFFIX,ettdnsv.com,PROXY

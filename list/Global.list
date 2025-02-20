@@ -1,4 +1,5 @@
 # (D.C.S.G?)
+HOST-KEYWORD,pubg,PROXY
 DOMAIN-SUFFIX,api.pubg.com,PROXY
 DOMAIN-SUFFIX,amazonaws.com,PROXY
 DOMAIN-SUFFIX,battlegroundspubg.com,PROXY

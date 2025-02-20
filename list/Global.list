@@ -1,7 +1,7 @@
 # (D.C.S.G?)
 DOMAIN-SUFFIX,api.pubg.com,PROXY
 DOMAIN-SUFFIX,amazonaws.com,PROXY
-DOMAIN-SUFFIX,battlegroundspubg.com, AsiaProxy
+DOMAIN-SUFFIX,battlegroundspubg.com,PROXY
 DOMAIN-SUFFIX,9cache.com,PROXY
 DOMAIN-SUFFIX,pubgameshowtime.com,PROXY
 DOMAIN-SUFFIX,proximabeta.com,PROXY

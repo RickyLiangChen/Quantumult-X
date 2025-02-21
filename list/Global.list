@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,pubgameshowtime.com,PROXY
 DOMAIN-SUFFIX,proximabeta.com,PROXY
 DOMAIN-SUFFIX,qcloudcdn.com,PROXY
 DOMAIN-SUFFIX,igamecj.com,PROXY
+DOMAIN-SUFFIX,k.igamecj.com,PROXY
+DOMAIN-SUFFIX,pay.igamecj.com,PROXY
+DOMAIN-SUFFIX,totope.com,PROXY
+DOMAIN-SUFFIX,f.totope.com,PROXY
 DOMAIN-SUFFIX,ettdnsv.com,PROXY
 DOMAIN-SUFFIX,gpubgm.com,PROXY
 DOMAIN-SUFFIX,gcloudcs.com,PROXY

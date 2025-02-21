@@ -1,4 +1,6 @@
 # (D.C.S.G?)
+host-suffix,pubgmobile.com,PROXY
+host-suffix,kggame.com,PROXY
 HOST-KEYWORD,pubg,PROXY
 HOST-KEYWORD,igamecj,PROXY
 HOST-KEYWORD,gpubgm,PROXY
